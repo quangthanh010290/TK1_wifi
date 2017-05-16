@@ -1,1 +1,2 @@
-# TK1_wifi
+# GPIO
+http://elinux.org/Jetson/GPIO
